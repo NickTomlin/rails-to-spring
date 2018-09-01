@@ -5,5 +5,5 @@ description: >-
   for my own benefit.
 ---
 
-# Spring Boot For Dummies
+# Rails to Spring
 
